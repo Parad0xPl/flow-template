@@ -11,7 +11,7 @@ Simple template to save some time
     * flow
   * plugin:
     * rest spread
-  * nodemon
+* Nodemon
 
 ## Scripts
 
